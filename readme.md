@@ -1,0 +1,1 @@
+# A basic template implementing OpenAI, Ollama llms with FastAPI
